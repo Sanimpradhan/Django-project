@@ -1,0 +1,22 @@
+2XX #Success
+-> 200 # Get request Success
+-> 201 # Sucessfully Created
+-> 204 # Sucessfully Deleted
+
+
+3XX #Redirection
+-> 301 # permanent Redirection
+-> 302 # Temporary Redirection
+
+4XX # Frontend Error
+-> 400 # bad request
+-> 401 # Unauthorized
+-> 403 # Forbidden / No permission 
+-> 404 # Not Found
+-> 405 # Method not allowed
+
+5XX #Server Error
+-> 500 # INternal Server Error
+-> 502 # Bad Gateway
+-> 503 # Service Unavailable
+

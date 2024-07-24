@@ -1,0 +1,17 @@
+11. Django Templates
+12. DTL (June 12)
+13. Template and Models (June 13)
+14. Models (June 14)
+15. Classroom CRUD (June 17)
+16. Classroom Update and Delete (June 18)
+17. June 19
+18. June 20
+19. June 21
+20. June 24
+21. June 25
+22. June 26
+23. June 27
+24. July 1
+25. July 2
+26. July 3
+27. July 4
